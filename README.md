@@ -12,7 +12,6 @@ This repository applies a range of metaheuristic optimization techniques combine
 - [PCA Visualization](#pca-visualization)
 - [Elbow Curve for Optimal Clustering](#elbow-curve-for-optimal-clustering)
 - [Setup and Usage](#setup-and-usage)
-- [Project Structure](#project-structure)
 - [Results](#results)
 - [References](#references)
 - [License](#license)
@@ -123,8 +122,6 @@ The optimization algorithms were applied first, after which K-means clustering r
 ## PCA Visualization
 
 Principal Component Analysis (PCA) was used to reduce the dimensionality of each dataset, providing visual representations of clustering results. Both **2D and 3D PCA plots** were generated to visualize clustering quality and spatial distribution of classes.
-
----
 
 ---
 
