@@ -157,9 +157,8 @@ The Elbow Curve provides a **data-driven estimate for K**, which helps in the in
 
 The results indicated that:
 1. Clustering quality varied based on the optimization technique, with some algorithms providing better-defined clusters than others.
-2. Algorithms like Differential Evolution and Particle Swarm Optimization demonstrated superior clustering improvements across multiple datasets.
-3. The similarity in cluster shapes observed across algorithms suggests that, while metaheuristics improve K-means, the underlying data structure plays a significant role.
-4. Detailed Results: Each dataset's clustering metrics and PCA plots are saved in the notebooks. This includes scores and comparisons across all metaheuristic algorithms.
+2. The similarity in cluster shapes observed across algorithms suggests that, while metaheuristics improve K-means, the underlying data structure plays a significant role.
+3. Detailed Results: Each dataset's clustering metrics and PCA plots are saved in the notebooks. This includes scores and comparisons across all metaheuristic algorithms.
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
